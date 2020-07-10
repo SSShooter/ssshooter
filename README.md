@@ -1,6 +1,9 @@
-### Hi there 👋
+Let the joy of life give you an answer.
+
 
 <!--
+### Hi there 👋
+
 **ssshooter/ssshooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
