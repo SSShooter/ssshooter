@@ -30,9 +30,11 @@ Let the joy of life give you an answer.
 - Blog https://ssshooter.com/
 
 
+### Why SSShooter
 
+SSShooter means ShindaSekai Shooter.
 
-
+I had an anime mania at a young age, and I love a song called Black Rock Shooter and an anime called Angel Beats. So, I mixed ShindaSekaiSensen Black Rock Shooter as my username. That's it 🤣
 
 <div align="center">
     <details>
