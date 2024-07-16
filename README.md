@@ -24,9 +24,13 @@ Let the joy of life give you an answer.
 
 ### Reach Me
 
+- [X (Twitter)](https://x.com/zhoudejie)
 - ssshooterx@gmail.com
 - NS SW-3824-2959-2096
 - PSN usubenifantasy
+
+### Links
+
 - Blog https://ssshooter.com/
 
 
