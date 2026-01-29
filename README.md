@@ -6,9 +6,9 @@ Let the joy of life give you an answer.
 
 - Front-end developer
 - Developer of [Mind Elixir](https://github.com/ssshooter/mind-elixir-core)
-- Lark
-- Hodophile
+- ADHD
 - Gamer
+- Hodophile
 
 ### Tech Stack
 
