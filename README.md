@@ -4,22 +4,26 @@ Let the joy of life give you an answer.
 
 ### About Me
 
-- Front-end developer
+- Full stack developer
 - Developer of [Mind Elixir](https://github.com/ssshooter/mind-elixir-core)
 - ADHD
 - Gamer
 - Hodophile
 
+### Project
+
+![Mind Elixir Ecosystem](https://ssshooter.com/mindelixir_en_dark.png)
+
 ### Tech Stack
 
 ```javascript
-['HTML','CSS','Javascript','Vue','React','React Native','Node.js','Electron','Docker']
+['Typescript','CSS','Tauri','Vue','React','React Native','Node.js','Electron','Docker']
 ```
 
 ### Learning
 
 ```javascript
-['Unity','Rust','kubernetes','go','python']
+['Rust','python','Java','kubernetes','go']
 ```
 
 ### Reach Me
